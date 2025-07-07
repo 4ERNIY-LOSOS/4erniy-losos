@@ -463,3 +463,4 @@
 [2025-Jul-07 19:03:24.831 +03:00][39022:39050][info ] Setting Krisp model: full_NC
 [2025-Jul-07 19:03:24.851 +03:00][39022:39050][info ] KrispVADSetup: sampleRate = 48000, duration = 10
 [2025-Jul-07 19:03:27.439 +03:00][39022:39043][info ] KrispVADReset
+ 
