@@ -50,7 +50,7 @@
   </h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=4ERNIY-LOSOS&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=dracula" alt="Top Languages"> 
   </p>
 </div>
