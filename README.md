@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matvey-str/matvey-str/main/assets/banner.gif" alt="Banner">
-
-  <h1 style="font-size: 2.5em; font-weight: bold; color: #7F00FF;">
+<h1 style="font-size: 2.5em; font-weight: bold; color: #7F00FF;">
     Привет! Я Матвей, Full-Stack разработчик.
   </h1>
 
