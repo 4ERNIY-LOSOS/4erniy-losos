@@ -1,5 +1,5 @@
 <h1 style="font-size: 2.5em; font-weight: bold; color: #7F00FF;">
-    Привет! Я Матвей, Full-Stack разработчик.
+    Привет! Я Матвей,разработчик.
   </h1>
 
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
