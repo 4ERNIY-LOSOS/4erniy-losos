@@ -16,35 +16,28 @@
 
 <div align="center">
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🏆 Награды
+    📊 Статистика и Награды
   </h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=dracula&row=1&column=7" alt="Trophy">
-  </p>
 </div>
 
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    📊 Статистика
-  </h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=dracula" alt="Top Languages"> 
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🔥 Стрик
-  </h2>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=4erniy-losos&theme=dracula" alt="Streak Stats">
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=dracula&row=1&column=7" alt="Trophy">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4erniy-losos&theme=dracula" alt="Streak Stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=dracula" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ---
 
