@@ -53,7 +53,11 @@
     🐍 Змейка
   </h2>
   <p>
-    <img src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg" alt="Snake">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg">
+      <img alt="Snake" src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg">
+    </picture>
   </p>
 </div>
 
