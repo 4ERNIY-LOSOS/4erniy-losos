@@ -8,7 +8,7 @@
 
 <div align="center">
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
-    Создаю веб-приложения и ищу open-source проекты для совместной разработки и роста.
+    Анальный анархист пацифист гемабоди паба беди эщкере вайбкодер
   </p>
 </div>
 
@@ -63,19 +63,6 @@
   <p>
     <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote">
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🌱 Мои цели и развитие
-  </h2>
-  <ul style="list-style-type: '⚡️'; text-align: left; display: inline-block;">
-    <li>Глубокое изучение паттернов проектирования.</li>
-    <li>Создание собственного open-source проекта.</li>
-    <li>Достижение уровня Senior-разработчика.</li>
-  </ul>
 </div>
 
 ---
