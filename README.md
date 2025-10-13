@@ -26,7 +26,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=dracula&row=1&column=7" alt="Trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=dracula&row=2&column=4" alt="Trophy">
     </td>
   </tr>
   <tr>
