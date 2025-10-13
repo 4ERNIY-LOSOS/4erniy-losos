@@ -53,7 +53,7 @@
     🐍 Змейка
   </h2>
   <p>
-    <img src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-contribution-grid-snake.svg" alt="Snake">
+    <img src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg" alt="Snake">
   </p>
 </div>
 
