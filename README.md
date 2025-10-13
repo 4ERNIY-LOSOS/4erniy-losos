@@ -8,7 +8,7 @@
 
 <div align="center">
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
-    Создаю веб-приложения и ищу open-source проекты для совместной разработки и роста.
+    Ищу open-source проекты для совместной разработки и роста.
   </p>
 </div>
 
