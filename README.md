@@ -1,10 +1,14 @@
-<h1 style="font-size: 2.5em; font-weight: bold; color: #7F00FF;">
-    Привет! Я Матвей,разработчик.
-  </h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=400&color=7F00FF&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9%2C+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA." alt="Typing SVG" /></a>
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4erniy-losos&color=blueviolet" alt="Просмотры профиля" />
+</p>
+
+<div align="center">
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
-    Создаю веб-приложения с фокусом на Backend и Frontend, увлекаюсь C# и PHP.<br>
-    Ищу open-source проекты для совместной разработки и роста.
+    Создаю веб-приложения и ищу open-source проекты для совместной разработки и роста.
   </p>
 </div>
 
@@ -12,31 +16,11 @@
 
 <div align="center">
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🚀 Мой стек технологий
+    🏆 Награды
   </h2>
-
   <p>
-    <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
-    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=dracula&row=1&column=7" alt="Trophy">
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🌱 Мои цели и развитие
-  </h2>
-
-  <ul style="list-style-type: '⚡️'; text-align: left; display: inline-block;">
-    <li>Глубокое изучение .NET и паттернов проектирования.</li>
-    <li>Создание собственного open-source проекта.</li>
-    <li>Достижение уровня Senior-разработчика.</li>
-  </ul>
 </div>
 
 ---
@@ -45,7 +29,6 @@
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
     📊 Статистика
   </h2>
-
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=dracula" alt="Top Languages"> 
@@ -56,9 +39,32 @@
 
 <div align="center">
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
+    🔥 Стрик
+  </h2>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=4erniy-losos&theme=dracula" alt="Streak Stats">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
+    🌱 Мои цели и развитие
+  </h2>
+  <ul style="list-style-type: '⚡️'; text-align: left; display: inline-block;">
+    <li>Глубокое изучение паттернов проектирования.</li>
+    <li>Создание собственного open-source проекта.</li>
+    <li>Достижение уровня Senior-разработчика.</li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
     📫 Свяжитесь со мной
   </h2>
-
   <p>
     <a href="https://t.me/SK_MY_dick_gde_svaga"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://discord.com/users/907258727709683792"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
