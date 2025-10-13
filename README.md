@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=400&color=7F00FF&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9%2C+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA." alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
-    Ищу open-source проекты для совместной разработки и роста.
+    Создаю веб-приложения и ищу open-source проекты для совместной разработки и роста.
   </p>
 </div>
 
@@ -43,6 +43,28 @@
   </h2>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=4erniy-losos&theme=dracula" alt="Streak Stats">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
+    🐍 Змейка
+  </h2>
+  <p>
+    <img src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-contribution-grid-snake.svg" alt="Snake">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
+    📜 Цитата дня
+  </h2>
+  <p>
+    <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote">
   </p>
 </div>
 
