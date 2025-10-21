@@ -40,20 +40,6 @@
     </picture>
   </p>
 </div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    📜 Цитата дня
-  </h2>
-  <p>
-    <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote">
-  </p>
-</div>
-
----
-
 <div align="center">
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
     📫 Свяжитесь со мной
