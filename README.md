@@ -11,15 +11,6 @@
     Анальный анархист пацифист гемабоди паба беди эщкере вайбкодер
   </p>
 </div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    📊 Статистика и Награды
-  </h2>
-</div>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -38,12 +29,8 @@
     </td>
   </tr>
 </table>
-
----
-
 <div align="center">
   <h2 style="font-size: 2em; color: #7F00FF; border-bottom: 2px solid #7F00FF; padding-bottom: 5px;">
-    🐍 Змейка
   </h2>
   <p>
     <picture>
