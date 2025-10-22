@@ -1,11 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=400&color=7F00FF&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9%2C+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA." alt="Typing SVG" /></a>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4erniy-losos&color=blueviolet" alt="Просмотры профиля" />
-</p>
-
 <div align="center">
   <p style="font-style: italic; font-size: 1.2em; color: #E6E6FA;">
     Анальный анархист пацифист гемабоди паба беди эщкере вайбкодер
