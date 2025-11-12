@@ -40,7 +40,7 @@
     📫 Свяжитесь со мной
   </h2>
   <p>
-    <a href="https://t.me/SK_MY_dick_gde_svaga"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/Suck_My_Dick_Idiot"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://discord.com/users/907258727709683792"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://steamcommunity.com/id/hitler371/"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   </p>
