@@ -18,18 +18,18 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=4erniy-losos&show_icons=true&bg_color=000000&title_color=601a1e&text_color=d9e0ee&icon_color=601a1e&border_color=601a1e&rank_icon=github" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=4ERNIY-LOSOS&show_icons=true&theme=blood&bg_color=000000&border_color=601a1e&hide_border=false" alt="GitHub Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=4erniy-losos&theme=darkhub&no-bg=false&margin-w=15&column=4&row=2" alt="Trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=4ERNIY-LOSOS&theme=darkhub&no-bg=false&margin-w=15&column=4&row=2" alt="Trophy">
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4erniy-losos&theme=black-ice&fire=601a1e&sideNums=d9e0ee&sideLabels=d9e0ee&dates=d9e0ee&currStreakLabel=601a1e&currStreakNum=d9e0ee&ring=601a1e&stroke=000000" alt="Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ERNIY-LOSOS&theme=dark&fire=601a1e&ring=601a1e&border=601a1e&background=000000" alt="Streak Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&bg_color=000000&title_color=601a1e&text_color=d9e0ee&border_color=601a1e" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=blood&bg_color=000000&border_color=601a1e&hide_border=false" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -39,11 +39,7 @@
 <!-- ACTIVITY LOG (SNAKE) -->
 <h3 align="center">♰ ACTIVITY LOG ♰</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg">
-    <img alt="Snake" src="https://github.com/4erniy-losos/4erniy-losos/blob/output/github-snake.svg">
-  </picture>
+  <img alt="Snake" src="https://raw.githubusercontent.com/4ERNIY-LOSOS/4ERNIY-LOSOS/output/github-snake-dark.svg">
 </p>
 
 <br>
