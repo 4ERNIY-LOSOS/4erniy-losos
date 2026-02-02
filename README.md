@@ -18,18 +18,18 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=4ERNIY-LOSOS&show_icons=true&theme=blood&bg_color=000000&border_color=601a1e&hide_border=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=4ERNIY-LOSOS&show_icons=true&theme=blood&bg_color=000000&hide_border=false" alt="GitHub Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=4ERNIY-LOSOS&theme=darkhub&no-bg=false&margin-w=15&column=4&row=2" alt="Trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=4ERNIY-LOSOS&theme=darkhub&no-bg=false&column=4&row=2" alt="Trophy">
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ERNIY-LOSOS&theme=dark&fire=601a1e&ring=601a1e&border=601a1e&background=000000" alt="Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ERNIY-LOSOS&theme=dark&fire=601a1e&background=000000" alt="Streak Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ERNIY-LOSOS&layout=compact&theme=blood&bg_color=000000&border_color=601a1e&hide_border=false" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ERNIY-LOSOS&layout=compact&theme=blood&bg_color=000000&hide_border=false" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -39,6 +39,7 @@
 <!-- ACTIVITY LOG (SNAKE) -->
 <h3 align="center">♰ ACTIVITY LOG ♰</h3>
 <p align="center">
+  <!-- Примечание: Файл github-snake-dark.svg появится здесь только после запуска GitHub Action -->
   <img alt="Snake" src="https://raw.githubusercontent.com/4ERNIY-LOSOS/4ERNIY-LOSOS/output/github-snake-dark.svg">
 </p>
 
