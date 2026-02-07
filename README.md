@@ -1,3 +1,5 @@
+<div align="center">
+<br>
 <!-- COMMUNICATION CHANNELS -->
 <h3 align="center">♰ COMMUNICATION CHANNELS ♰</h3>
 <p align="center">
